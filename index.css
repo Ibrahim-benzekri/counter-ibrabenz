@@ -1,0 +1,26 @@
+#container{
+    align-items: center;
+    text-align: center;
+    margin-top: 300px;
+}
+
+#textCounter{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+#number{
+    font-size: 70px;
+}
+.buttons{
+    font-size: 20px;
+    border-radius: 12px;
+    border: 2px solid black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    text-align: center;
+    width: 130px;
+    height: 35px;
+    color: black;
+    cursor: pointer;
+}
